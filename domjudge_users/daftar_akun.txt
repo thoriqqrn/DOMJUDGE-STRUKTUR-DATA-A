@@ -1,0 +1,53 @@
+Daftar Akun Mahasiswa:
+
+Password untuk semua akun: senangstrukdat321
+
+Username        Nama Lengkap                            
+-------------------------------------------------------
+fioreno004      Fioreno Malvin Tandra                   
+kelvin062       Kelvin Krismora Gultom                  
+mathew076       Mathew William Junior Tumanggor         
+muhammad082     Muhammad Rifqi Abdillah                 
+reidita001      Reidita Eirene Anastasia Katampuge      
+adzkia003       Adzkia Anfariza Rizqika                 
+aisyah008       Aisyah Nuurii Winsetyowati              
+verdia012       Verdia Nachel Tunggal Dewi              
+hafidz014       Hafidz Ulum Ramadhani                   
+arini015        Arini Yanua Sari                        
+yuke016         Yuke Brilliant Hestiavin                
+naufal018       Naufal Ahimsa Raushanfekr               
+yoga021         Yoga Andreas Hutajulu                   
+amos023         Amos Harol Turnip                       
+christopher028  Christopher Joenathan Hindarto          
+jordi029        Jordi                                   
+bagas031        Bagas Aryo Dananjoyo                    
+rayhan032       Rayhan Diah Purwadi                     
+sarah035        Sarah Shafira Maulida                   
+hasya036        Hasya Rihadatul Aiza                    
+moh038          Moh. Nabil Zarif Rofif                  
+ilan039         Ilan Hawwari Prasojo                    
+alya044         Alya Hasna Fadilah                      
+abrar046        Abrar Rafi Dwianto                      
+ahmad048        Ahmad Hanif Al-Fatih                    
+nicholas050     Nicholas Benaya                         
+dien051         Dien Fadillah Prihardini                
+fito053         Fito Dwi Ardiansah                      
+nania059        Nania Aurelia Dewi Cahyani              
+la064           La Rangga Abidzar Al Ghifari            
+athaya068       Athaya Ahmad Farrel Hatrian             
+valian070       Valian Tsaqif Hidayat                   
+anisa071        Anisa Hasna Mufida                      
+rozaq072        Rozaq Nafi'ul Hafidz                    
+jeff073         Jeff Rehobot Hasian Lumban Gaol         
+dzaky076        Dzaky Haady                             
+muhammad077     Muhammad Haikal                         
+roos079         Roos Habib Faiz Dzaki                   
+fauzian080      Fauzian Ramadhan                        
+lubah082        Lu`bah Al `aini                         
+muhammad083     Muhammad Arifin Umasangadji             
+andi087         Andi Abdul Malik Imaduddien             
+andre089        Andre Adelfi Stevena                    
+ihsan090        Ihsan Maulana Harjanto                  
+muhammad093     Muhammad Syaiful Kalam                  
+vinsen094       Vinsen Dwi Putra                        
+lucky095        Lucky Adhi Suardhana                    
