@@ -1,5 +1,6 @@
 # DOMJUDGE-STRUKTUR-DATA-A
-<img width="462" height="462" alt="image" src="https://github.com/user-attachments/assets/f99a2e2f-6dbc-47c1-96f7-a67a0700139a" />
+<img width="369" height="136" alt="image" src="https://github.com/user-attachments/assets/cbc6e895-65db-489a-89ae-55347116d0e8" />
+
 
 # Kumpulan Soal Latihan Struktur Data - Domjudge Teknik Komputer ITS
 
